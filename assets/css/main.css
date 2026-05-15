@@ -1971,7 +1971,7 @@ form input[type="email"]:focus,
 form input[type="password"]:focus,
 form select:focus,
 form textarea:focus {
-  box-shadow: 0 0 2px 1px #8ebebc;
+  box-shadow: 0 0 2px 1px #dfcbee;
   background: #fff;
 }
 
@@ -2201,7 +2201,7 @@ button:active,
 }
 
 #header .icons a {
-  color: #41484c;
+	color: #81d7ed
   -moz-transition: color 0.35s ease-in-out;
   -webkit-transition: color 0.35s ease-in-out;
   -ms-transition: color 0.35s ease-in-out;
@@ -2209,7 +2209,7 @@ button:active,
 }
 
 #header .icons a:hover {
-  color: #fff;
+	color: #81d7ed
 }
 
 #logo {
@@ -2288,7 +2288,7 @@ button:active,
 }
 
 #nav ul li a.active span:before {
-  color: #e27689;
+  color: #81d7ed;
 }
 
 /* Footer */
