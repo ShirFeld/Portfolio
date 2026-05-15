@@ -1,40 +1,85 @@
-Prologue by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Shir Feldman Portfolio
 
+Personal portfolio website built with HTML, CSS, and JavaScript.
 
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+This website presents:
+- QA Automation projects
+- SQL & Data Analysis projects
+- Technical skills
+- GitHub repositories
+- Professional background and experience
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
+---
 
-http://ineedchemicalx.deviantart.com/
+## Technologies Used
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Git & GitHub
 
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
+---
 
-(* = Not included)
+## Featured Projects
 
-AJ
-aj@lkn.io | @ajlkn
+### Financial Data Automation System
+Automation project focused on financial data processes and validations.
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+Technologies:
+- Playwright
+- JavaScript
+- API Testing
+- SQL
 
+---
 
-Credits:
+### Food Waste Analytics Project
+Data analysis project focused on global food waste insights and visualization.
 
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
+Technologies:
+- Python
+- Pandas
+- Matplotlib
+- Data Analysis
 
-	Icons:
-		Font Awesome (fontawesome.io)
+---
 
-	Other
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+### SQL Business Analytics Project
+Advanced SQL project using analytical queries and business intelligence techniques.
+
+Topics included:
+- Window Functions
+- CTEs
+- Ranking Functions
+- Sales Analysis
+- Customer Insights
+
+---
+
+## About Me
+
+Management Information Systems (MIS) student with hands-on experience in:
+- QA Automation
+- SQL & Databases
+- Data Analysis
+- API Testing
+- End-to-End Testing
+
+Passionate about technology, automation, analytics, and building efficient solutions.
+
+---
+
+## GitHub Repository
+
+[View Repository](https://github.com/ShirFeld/Portfolio?utm_source=chatgpt.com)
+
+---
+
+## Template Credits
+
+Original design based on:
+"Prologue" by HTML5 UP  
+https://html5up.net
+
+Customized and modified by Shir Feldman.
